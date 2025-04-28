@@ -38,7 +38,7 @@ export const about = () => {
               </p>
               <p className='font-medium'>
                 I aspire to join a forward-thinking organization where I can apply my knowledge and grow
-                both professionally and personally. I believe that design is about more than just making things look pretty – it&apos;s about solving problems and 
+                both professionally and personally. I believe that design is about more than just making things look pretty – its about solving problems and 
                 creating intuitive, enjoyable experiences for users. I look forward to the opportunity to bring my skills and passion to your next project.
               </p>
             </div>
